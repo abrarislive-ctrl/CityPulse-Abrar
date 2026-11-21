@@ -140,10 +140,6 @@ information.
 
 ![Changing permissions and listing running processes](images/permissions-and-processes.jpg)
 
-### System information
-
-![Checking disk usage, system details, and WSL version](images/system-information.png)
-
 ## Repository contents
 
 - `README.md` — command-line exercise guide
